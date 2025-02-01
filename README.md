@@ -1,9 +1,16 @@
 Machine Learning and Statistical Models Notebooks
+
 Description
+
+
 This repository contains Jupyter notebooks implementing various machine learning and statistical models, including K-Means clustering, Gaussian Mixture Models, and binomial distribution simulations.
 
 Repository Contents
+
+
 Each notebook focuses on a different concept or dataset:
+
+
 
 KMeans_fashion_mnist.ipynb – Implementation of K-Means clustering on the Fashion MNIST dataset.
 Gaussian_mixture_models_mnist.ipynb – Data modeling using Gaussian Mixture Models.
