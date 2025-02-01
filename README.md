@@ -3,7 +3,7 @@ Machine Learning and Statistical Models Notebooks
 Description
 
 
-This repository contains Jupyter notebooks implementing various machine learning and statistical models, including K-Means clustering, Gaussian Mixture Models, and binomial distribution simulations.
+This repository contains Jupyter notebooks implementing various machine learning and statistical models, including K-Means clustering, Gaussian Mixture Models, and binomial distribution simulations. Most of them have been done applying algorithms without libraries.
 
 Repository Contents
 
